@@ -1,0 +1,201 @@
+﻿Title
+NSFnets (Navier-Stokes flow nets): Physics-informed neural networks for the incompressible Navier-Stokes equations
+Fast and interpretable classification of small X-ray diffraction datasets using data augmentation and deep neural networks
+A physics-informed machine learning approach for solving heat transfer equation in advanced manufacturing and engineering applications
+Bilinear residual network method for solving the exactly explicit solutions of nonlinear evolution equations
+SympNets: Intrinsic structure-preserving symplectic networks for identifying Hamiltonian systems
+When and why PINNs fail to train: A neural tangent kernel perspective
+Machine learning for metal additive manufacturing: Towards a physics-informed data-driven paradigm
+PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain
+Physics-informed deep learning for incompressible laminar flows
+Physics-informed probabilistic learning of linear embeddings of nonlinear dynamics with guaranteed stability
+Flow over an espresso cup: Inferring 3-D velocity and pressure fields from tomographic background oriented Schlieren via physics-informed neural networks
+Deep learning in nano-photonics: inverse design and beyond
+Data-driven femtosecond optical soliton excitations and parameters discovery of the high-order NLSE using the PINN
+Simulator-free solution of high-dimensional stochastic elliptic partial differential equations using deep neural networks
+Perspectives on machine learning-augmented Reynolds-averaged and large eddy simulation models of turbulence
+PHYSICS-INFORMED NEURAL NETWORKS WITH HARD CONSTRAINTS FOR INVERSE DESIGN
+Physics-Informed Deep Learning for Computational Elastodynamics without Labeled Data
+Towards Physics-informed Deep Learning for Turbulent Flow Prediction
+DeepXDE: A deep learning library for solving differential equations
+Understanding and mitigating gradient flow pathologies in physics-informed neural networks
+Transfer learning based multi-fidelity physics informed deep neural network
+Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels
+Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data
+B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data
+Lift & Learn: Physics-informed machine learning for large-scale nonlinear dynamical systems
+On the convergence of physics informed neural networks for linear second-order elliptic and parabolic type PDEs
+Non-invasive inference of thrombus material properties with physics-informed neural networks
+Deep-learning-based surrogate model for reservoir simulation with time-varying well controls
+Physics-informed neural networks (PINNs) for fluid mechanics: a review
+Physics-Aware Neural Networks for Distribution System State Estimation
+Uncovering near-wall blood flow from sparse data with physics-informed neural networks
+Parametric deep energy approach for elasticity accounting for strain gradient effects
+Extreme theory of functional connections: A fast physics-informed neural network method for solving ordinary and partial differential equations
+Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks
+Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems
+Learning in modal space: Solving time-dependent stochastic PDEs using physics-informed neural networks
+Physics-Informed Neural Networks for Cardiac Activation Mapping
+Predictive large-eddy-simulation wall modeling via physics-informed neural networks
+Sobolev training of thermodynamic-informed neural networks for interpretable elasto-plasticity models with level set hardening
+Physics-constrained bayesian neural network for fluid flow reconstruction with sparse and noisy data
+hp-VPINNs: Variational physics-informed neural networks with domain decomposition
+Seeing permeability from images: fast prediction with convolutional neural networks
+Deep hidden physics models: Deep learning of nonlinear partial differential equations
+A physics-informed deep learning approach for bearing fault detection
+Predicting the dissolution kinetics of silicate glasses using machine learning
+Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next
+Driven by Data or Derived through Physics? A Review of Hybrid Physics Guided Machine Learning Techniques with Cyber-Physical System (CPS) Focus
+Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs
+SYMPLECTIC ODE-NET: LEARNING HAMILTONIAN DYNAMICS WITH CONTROL
+Solving the frequency-domain acoustic VTI wave equation using physics-informed neural networks
+Physics-informed machine learning approach for reconstructing Reynolds stress modeling discrepancies based on DNS data
+Physics-informed neural networks for heat transfer problems
+"Fundamentals, materials, and machine learning of polymer electrolyte membrane fuel cell technology"
+Physics Informed Extreme Learning Machine (PIELM)–A rapid method for the numerical solution of partial differential equations
+Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations
+Root mean square error or mean absolute error? Use their ratio as well
+Physics-informed neural networks for power systems
+Machine learning in materials science: From explainable predictions to autonomous design
+Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems
+Physics-informed machine learning for reduced-order modeling of nonlinear problems
+Physics-informed neural networks for multiphysics data assimilation with application to subsurface transport
+Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems
+Machine learning for structural health monitoring: Challenges and opportunities
+Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed neural networks
+Physics-informed learning of governing equations from scarce data
+Physics-informed generative adversarial networks for stochastic differential equations
+Parallel physics-informed neural networks via domain decomposition
+Physics-informed machine learning
+"An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications"
+Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations
+Three ways to solve partial differential equations with neural networks — A review
+Adaptive activation functions accelerate convergence in deep and physics-informed neural networks
+PPINN: Parareal physics-informed neural network for time-dependent PDEs
+Physics-informed neural networks for inverse problems in nano-optics and metamaterials
+Physics-informed neural networks for high-speed flows
+A physics-informed deep learning framework for inversion and surrogate modeling in solid mechanics
+Adversarial uncertainty quantification in physics-informed neural networks
+SciANN: A Keras/TensorFlow wrapper for scientific computations and physics-informed deep learning using artificial neural networks
+PINNeik: Eikonal solution using physics-informed neural networks
+Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics
+On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks
+A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems
+Locally adaptive activation functions with slope recovery for deep and physics-informed neural networks
+Characterizing possible failure modes in physics-informed neural networks
+Physics-Informed Neural Network for Ultrasound Nondestructive Quantification of Surface Breaking Cracks
+Recent trends on hybrid modeling for Industry 4.0
+Transfer learning enhanced physics informed neural network for phase-field modeling of fracture
+Physics-informed machine learning approach for augmenting turbulence models: A comprehensive framework
+Extended physics-informed neural networks (XPINNs): A generalized space-time domain decomposition based deep learning framework for nonlinear partial differential equations
+Learning the solution operator of parametric partial differential equations with physics-informed DeepONets
+nPINNs: Nonlocal physics-informed neural networks for a parametrized nonlocal universal Laplacian operator. Algorithms and applications
+Physics-Informed Deep Neural Networks for Learning Parameters and Constitutive Relationships in Subsurface Flow Problems
+Habitat 2.0: Training Home Assistants to Rearrange their Habitat
+Data-Driven Optimal Power Flow: A Physics-Informed Machine Learning Approach
+FPinns: Fractional physics-informed neural networks
+Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems
+Modeling the dynamics of PDE systems with physics-constrained deep auto-regressive networks
+Physics-informed machine learning: Case studies for weather and climate modelling
+Physics-informed multi-LSTM networks for metamodeling of nonlinear structures
+Physics-informed neural network for modelling the thermochemical curing process of composite-tool systems during manufacture
+A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations
+PINN deep learning method for the Chen–Lee–Liu equation: Rogue wave on the periodic background
+Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems
+The neural particle method – An updated Lagrangian physics informed neural network for computational fluid dynamics
+The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity
+A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations
+Physics-Informed Neural Networks (PINNs) for Wave Propagation and Full Waveform Inversions
+"Review of Machine Learning for Hydrodynamics, Transport, and Reactions in Multiphase Flows and Reactors"
+Exact imposition of boundary conditions with distance functions in physics-informed deep neural networks
+A physics-informed machine learning model for porosity analysis in laser powder bed fusion additive manufacturing
+Efficient training of physics-informed neural networks via importance sampling
+CAN-PINN: A fast physics-informed neural network based on coupled-automatic–numerical differentiation method
+Physics informed neural networks for continuum micromechanics
+Hybrid physics-informed neural networks for lithium-ion battery modeling and prognosis
+Fatigue damage characterization for composite laminates using deep learning and laser ultrasonic
+Neural Networks-Based Aerodynamic Data Modeling: A Comprehensive Review
+Physics-informed neural networks for solving forward and inverse flow problems via the Boltzmann-BGK formulation
+Deep Kronecker neural networks: A general framework for neural networks with adaptive activation functions
+A physics-guided neural network framework for elastic plates: Comparison of governing equations-based and energy-based approaches
+PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs
+Physics-informed neural networks for solving nonlinear diffusivity and Biot’s equations
+Solving partial differential equations using deep learning and physical constraints
+Super-resolution and denoising of 4D-Flow MRI using physics-Informed deep neural nets
+A physics-informed neural network for creep-fatigue life prediction of components at elevated temperatures
+Data-driven physics-informed constitutive metamodeling of complex fluids: A multifidelity neural network (MFNN) framework
+A tutorial on solving ordinary differential equations using Python and hybrid physics-informed neural network
+The Old and the New: Can Physics-Informed Deep-Learning Replace Traditional Linear Solvers?
+Solving localized wave solutions of the derivative nonlinear Schrödinger equation using an improved PINN method
+A physics-informed neural network for wind turbine main bearing fatigue
+Shape Deviation Generator-A Convolution Framework for Learning and Predicting 3-D Printing Shape Accuracy
+Artificial intelligence velocimetry and microaneurysm-on-a-chip for three-dimensional analysis of blood flow in physiology and disease
+On the prediction of critical heat flux using a physics-informed machine learning-aided framework
+A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks
+Theory-guided deep-learning for electrical load forecasting (TgDLF) via ensemble long short-term memory
+Energy performance prediction of the centrifugal pumps by using a hybrid neural network
+Physics-informed neural networks for electrode-level state estimation in lithium-ion batteries
+Physics-informed neural networks for missing physics estimation in cumulative damage models: A case study in corrosion fatigue
+Meshless physics-informed deep learning method for three-dimensional solid mechanics
+The use of the Reynolds force vector in a physics informed machine learning approach for predictive turbulence modeling
+Brain-inspired computing via memory device physics
+Adaptive fourth-order phase field analysis using deep energy minimization
+Dense velocity reconstruction from particle image velocimetry/particle tracking velocimetry using a physics-informed neural network
+Physics-informed meta learning for machining tool wear prediction
+Analyses of internal structures and defects in materials using physics-informed neural networks
+Self-adaptive loss balanced Physics-informed neural networks
+A two-stage physics-informed neural network method based on conserved quantities and applications in localized wave solutions
+"Learning to Make Chemical Predictions: The Interplay of Feature Representation, Data, and Machine Learning Methods"
+"Quantum Deep Field: Data-Driven Wave Function, Electron Density Generation, and Atomization Energy Prediction and Extrapolation with Machine Learning"
+Multi-fidelity Bayesian neural networks: Algorithms and applications
+Exploring cluster Monte Carlo updates with Boltzmann machines
+Estimating model inadequacy in ordinary differential equations with physics-informed neural networks
+Predicting the dynamic process and model parameters of the vector optical solitons in birefringent fibers via the modified PINN
+Stochastic deep collocation method based on neural architecture search and transfer learning for heterogeneous porous media
+Physics-informed neural networks for inverse problems in supersonic flows
+Physics-informed CoKriging: A Gaussian-process-regression-based multifidelity method for data-model convergence
+Physics informed machine learning: Seismic wave equation
+A nonlocal physics-informed deep learning framework using the peridynamic differential operator
+"Deep learning to replace, improve, or aid CFD analysis in built environment applications: A review"
+Thermodynamically consistent physics-informed neural networks for hyperbolic systems
+Prediction of porous media fluid flow using physics informed neural networks
+"A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications"
+Data-driven rogue waves and parameter discovery in the defocusing nonlinear Schrödinger equation with a potential using the PINN deep learning
+Physics informed neural networks for simulating radiative transfer
+Physics-informed neural networks for solving Reynolds-averaged Navier-Stokes equations
+Physics Informed Deep Learning for Traffic State Estimation
+Predicting certain vector optical solitons via the conservation-law deep-learning method
+Deep learning method based on physics informed neural network with Resnet block for solving fluid flow problems
+Physics-Informed Deep Learning for Musculoskeletal Modeling: Predicting Muscle Forces and Joint Kinematics From Surface EMG
+Physics-Informed LSTM hyperparameters selection for gearbox fault detection
+Hydrologically informed machine learning for rainfall-runoff modelling: Towards distributed modelling
+Using physics-informed enhanced super-resolution generative adversarial networks for subfilter modeling in turbulent reactive flows
+Data-driven vector soliton solutions of coupled nonlinear Schrödinger equation using a deep learning algorithm
+Flows over periodic hills of parameterized geometries: A dataset for data-driven turbulence modeling from direct simulations
+Physics-Informed and Hybrid Machine Learning in Additive Manufacturing: Application to Fused Filament Fabrication
+Battery state-of-charge estimation amid dynamic usage with physics-informed deep learning
+A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder
+"Nonlinear seismic inversion by physics-informed Caianiello convolutional neural networks for overpressure prediction of source rocks in the offshore Xihu depression, East China"
+A physics-informed assembly of feed-forward neural network engines to predict inelasticity in cross-linked polymers
+A generic physics-informed neural network-based constitutive model for soft biological tissues
+Solving allen-cahn and cahn-hilliard equations using the adaptive physics informed neural networks
+Deep learning of turbulent scalar mixing
+DiscretizationNet: A machine-learning based solver for Navier–Stokes equations using finite volume discretization
+Machine learning in aerodynamic shape optimization
+Physics-informed machine learning for composition – process – property design: Shape memory alloy demonstration
+Simulation of multi-species flow and heat transfer using physics-informed neural networks
+High-resolution limited-angle phase tomography of dense layered objects using deep neural networks
+A physics-informed operator regression framework for extracting data-driven continuum models
+A physics-informed deep learning method for solving direct and inverse heat conduction problems of materials
+Single-pixel imaging using physics enhanced deep learning
+Prediction of Reynolds stresses in high-Mach-number turbulent boundary layers using physics-informed machine learning
+Computational screening of new perovskite materials using transfer learning and deep learning
+A unified sparse optimization framework to learn parsimonious physics-informed models from data
+Physics-informed machine learning and mechanistic modeling of additive manufacturing to reduce defects
+A physics-informed deep learning paradigm for car-following models
+Local extreme learning machines and domain decomposition for solving linear and nonlinear partial differential equations
+A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials
+A real-time iterative machine learning approach for temperature profile prediction in additive manufacturing processes
+Structural identification with physics-informed neural ordinary differential equations
+Imaging through unknown scattering media based on physics-informed learning
+Physics-Constrained Deep Learning of Geomechanical Logs
